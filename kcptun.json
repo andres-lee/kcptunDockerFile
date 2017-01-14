@@ -1,0 +1,12 @@
+{
+    "listen": ":20008",
+    "target": "127.0.0.1:1080",
+    "key": "ignoregfw",
+    "crypt": "aes",
+    "mode": "fast2",
+    "mtu": 1500,
+    "sndwnd": 1024,
+    "rcvwnd": 1024,
+    "nocomp": false,
+    "keepalive": 1
+}
