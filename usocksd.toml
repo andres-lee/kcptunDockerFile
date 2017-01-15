@@ -1,3 +1,6 @@
 [incoming]
 port = 1080
 addresses = ["127.0.0.1"] 
+
+[log]
+level = "error"               # critical", error, warning, info, debug
